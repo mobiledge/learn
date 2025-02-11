@@ -1,4 +1,4 @@
-# mobiledge
+# learn
 
 - https://mobiledge.io
 - [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
