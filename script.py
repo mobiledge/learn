@@ -2,13 +2,13 @@ import os
 from pathlib import Path
 
 
-def insert_text_at_start(folder_path, text_to_insert):
+def insert_text_at_start(folder_path):
     """
-    Insert given text at the start of all files in the specified folder.
+    Insert front matter text at the start of all files in the specified folder,
+    using the capitalized filename (without extension) as the title.
 
     Args:
         folder_path (str): Path to the folder containing files
-        text_to_insert (str): Text to insert at the start of each file
     """
     try:
         # Convert to Path object for better path handling
@@ -26,6 +26,19 @@ def insert_text_at_start(folder_path, text_to_insert):
                 continue
 
             try:
+                # Get the filename without extension and capitalize it
+                title = file_path.stem.capitalize()
+
+                # Create the front matter text with the dynamic title
+                text_to_insert = f"""---
+title: {title}
+parent: iOS
+---
+"""
+                # Add newline to text if it doesn't end with one
+                if not text_to_insert.endswith('\n'):
+                    text_to_insert += '\n'
+
                 # Read the original content
                 with open(file_path, 'r', encoding='utf-8') as file:
                     original_content = file.read()
@@ -46,18 +59,8 @@ def insert_text_at_start(folder_path, text_to_insert):
 # Example usage
 if __name__ == "__main__":
     # Get user input
-    # input("Enter the folder path: ")
+    # folder_path = input("Enter the folder path: ")
     folder_path = "/Users/rabinjoshi/Developer/github/learn/ios"
-    text_to_insert = """
-    ---
-    title: Some Title
-    parent: iOS
-    ---
-    """
-
-    # Add newline to text if it doesn't end with one
-    if not text_to_insert.endswith('\n'):
-        text_to_insert += '\n'
 
     # Run the function
-    insert_text_at_start(folder_path, text_to_insert)
+    insert_text_at_start(folder_path)
