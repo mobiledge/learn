@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 
 
 def process_markdown_file(file_path):
