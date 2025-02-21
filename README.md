@@ -11,7 +11,7 @@ permalink: /
 - TOC
 {:toc}
 
-
+## Shortcuts
 - https://mobiledge.io
 - [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
 - [Computer-Organization-Architecture](https://sour-birch-978.notion.site/Computer-Organization-Architecture-10e69b88a89d80299929dd5a1f75f938)
