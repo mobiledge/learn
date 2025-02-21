@@ -6,17 +6,12 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Home
+## Table of contents
+{: .no_toc .text-delta }
 
-- TOC
+1. TOC
 {:toc}
 
-## Shortcuts
-- https://mobiledge.io
-- [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
-- [Computer-Organization-Architecture](https://sour-birch-978.notion.site/Computer-Organization-Architecture-10e69b88a89d80299929dd5a1f75f938)
-- [Resources ↓](#resources)
-- [Shortcuts ↓](#shortcuts)
 
 ## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
@@ -157,7 +152,9 @@ Queue &nbsp; · &nbsp;
 - [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 - [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)
 - [Repositories](https://github.com/mobilege?tab=repositories)
-
+- https://mobiledge.io
+- [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
+- [Computer-Organization-Architecture](https://sour-birch-978.notion.site/Computer-Organization-Architecture-10e69b88a89d80299929dd5a1f75f938)
 
 
 line break: end a line with two or more spaces
