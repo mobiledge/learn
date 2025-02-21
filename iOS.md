@@ -1,6 +1,7 @@
 ---
-title: Readme
-parent: iOS
+title: iOS
+nav_order: 1
+parent: Home
 ---
 
 ## Table of contents
