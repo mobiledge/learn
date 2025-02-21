@@ -1,4 +1,12 @@
-# learn
+---
+title: Home
+layout: home
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
+---
+
+# Home
 
 - https://mobiledge.io
 - [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
