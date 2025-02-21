@@ -3,15 +3,13 @@ import re
 
 
 def to_camel_case(text):
-    """Convert a string to CamelCase format."""
-    # Remove file extension first
-    base_name = os.path.splitext(text)[0]
+    """Convert a filename to CamelCase."""
+    # Remove file extension and split by non-alphanumeric characters
+    name_without_ext = os.path.splitext(text)[0]
+    words = re.split(r'[^a-zA-Z0-9]', name_without_ext)
 
-    # Split by common delimiters (hyphen, underscore, space)
-    words = re.split(r'[-_\s]', base_name)
-
-    # Capitalize first letter of each word and join
-    return ''.join(word.capitalize() for word in words)
+    # Capitalize each word and join them together
+    return ''.join(word.capitalize() for word in words if word)
 
 
 def rename_markdown_files(folder_path):
