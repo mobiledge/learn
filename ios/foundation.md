@@ -3,8 +3,14 @@ title: Foundation
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # [Foundation](https://developer.apple.com/documentation/foundation)
 
 ## Topics

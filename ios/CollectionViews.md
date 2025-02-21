@@ -3,8 +3,14 @@ title: Collectionviews
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # Collection Views
 - [Collection View Programming Guide for iOS](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/CollectionViewPGforIOS/Introduction/Introduction.html) - Guide
 - [CollectionView-Simple](https://developer.apple.com/library/archive/samplecode/CollectionView-Simple/Introduction/Intro.html) - Sample Code

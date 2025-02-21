@@ -3,6 +3,19 @@ title: Cachable
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!--- Everything above this is generated --->
+
+---
+title: Cachable
+parent: iOS
+---
+
 1. TOC
 {:toc}
 protocol Cachable: Codable {

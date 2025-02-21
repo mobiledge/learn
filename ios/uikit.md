@@ -3,8 +3,14 @@ title: Uikit
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # UIKit
 
 - [Catalyst](https://github.com/mobilege/ios-development/blob/master/catalyst.md#mac-catalyst)

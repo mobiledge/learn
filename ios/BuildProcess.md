@@ -3,8 +3,14 @@ title: Buildprocess
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # Build Process
 
 `swiftc` is the Swift compiler. It takes one or more Swift source files as input and produces a binary output that can be executed directly.

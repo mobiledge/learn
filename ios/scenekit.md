@@ -3,8 +3,14 @@ title: Scenekit
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # scenekit
 
 ###### [SCNView](https://developer.apple.com/documentation/scenekit/scnview)

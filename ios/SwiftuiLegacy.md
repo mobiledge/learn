@@ -3,8 +3,14 @@ title: Swiftuilegacy
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # SwiftUI (Legacy Page)
 
 ## [**Learning path > iOS User Interfaces with SwiftUI**](https://www.kodeco.com/ios/paths/iosuserinterface)

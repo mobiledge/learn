@@ -35,8 +35,14 @@ title: {title}
 parent: iOS
 ---
 
+## Table of contents
+{{: .no_toc .text-delta }}
+
 1. TOC
 {{:toc}}
+
+<!--- Everything above this is generated --->
+
 """
                 # Add newline to text if it doesn't end with one
                 if not text_to_insert.endswith('\n'):

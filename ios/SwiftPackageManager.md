@@ -3,8 +3,14 @@ title: Swiftpackagemanager
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # Swift Package Manager
 
 #### [Swift Package Manager basics](https://theswiftdev.com/swift-package-manager-tutorial/)

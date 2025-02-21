@@ -3,6 +3,19 @@ title: Nibinstantiable
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!--- Everything above this is generated --->
+
+---
+title: Nibinstantiable
+parent: iOS
+---
+
 1. TOC
 {:toc}
 // Definition

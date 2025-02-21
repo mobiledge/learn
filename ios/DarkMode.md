@@ -3,8 +3,14 @@ title: Darkmode
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # Dark Mode
 
 - WWDC 2019 - Session 214: Implementing Dark Mode on iOS.

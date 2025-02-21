@@ -3,8 +3,14 @@ title: Swiftui
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
 
 - [Search](http://mobiledge.github.io/search/swiftui-views.html) 🔎 

@@ -3,8 +3,14 @@ title: Coredata
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # Core Data
 
 [swift-persistence/core-data](https://rabin-aapl.gitbook.io/swift-persistence/core-data/)

@@ -3,8 +3,14 @@ title: Combine
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # Combine
 - Documentation / [**Combine**](https://developer.apple.com/documentation/combine)
 - [**Introducing Combine - Matt Neuberg**](https://www.apeth.com/UnderstandingCombine/toc.html)

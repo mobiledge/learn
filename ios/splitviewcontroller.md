@@ -3,8 +3,14 @@ title: Splitviewcontroller
 parent: iOS
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+<!--- Everything above this is generated --->
+
 # Split View Controller
 
 [Multiple UISplitViewController Tutorial](https://www.raywenderlich.com/7212-multiple-uisplitviewcontroller-tutorial)
