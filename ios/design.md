@@ -1,3 +1,10 @@
+---
+title: Design
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # iOS Design
 
 #### Display Resolution

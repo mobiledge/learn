@@ -1,3 +1,10 @@
+---
+title: Logging
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Logging
 
 [Design](https://github.com/mobilege/ios-development/blob/master/design.md), 

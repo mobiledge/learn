@@ -1,3 +1,10 @@
+---
+title: Viewcontrollers
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # View Controllers
 
 [Developer Documentation](https://developer.apple.com/documentation) >

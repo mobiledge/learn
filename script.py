@@ -34,6 +34,9 @@ def insert_text_at_start(folder_path):
 title: {title}
 parent: iOS
 ---
+
+1. TOC
+{{:toc}}
 """
                 # Add newline to text if it doesn't end with one
                 if not text_to_insert.endswith('\n'):

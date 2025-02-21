@@ -1,3 +1,10 @@
+---
+title: Nibinstantiable
+parent: iOS
+---
+
+1. TOC
+{:toc}
 // Definition
 
 protocol NibInstantiable {

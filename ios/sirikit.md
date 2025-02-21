@@ -1,3 +1,10 @@
+---
+title: Sirikit
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # SiriKit
 
 - [Documentation > SiriKit](https://developer.apple.com/documentation/sirikit)

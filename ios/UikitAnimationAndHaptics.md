@@ -1,3 +1,10 @@
+---
+title: Uikitanimationandhaptics
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Animation and Haptics
 
 - [Animation and Haptics](https://developer.apple.com/documentation/uikit/animation_and_haptics)

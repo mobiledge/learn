@@ -1,3 +1,10 @@
+---
+title: Cachable
+parent: iOS
+---
+
+1. TOC
+{:toc}
 protocol Cachable: Codable {
    
     // Names

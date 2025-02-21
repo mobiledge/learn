@@ -1,3 +1,10 @@
+---
+title: Xcodebuild
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # xcodebuild
 
 - https://www.kodeco.com/books/ios-app-distribution-best-practices/v1.0/chapters/12-build-automation

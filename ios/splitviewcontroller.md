@@ -1,3 +1,10 @@
+---
+title: Splitviewcontroller
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Split View Controller
 
 [Multiple UISplitViewController Tutorial](https://www.raywenderlich.com/7212-multiple-uisplitviewcontroller-tutorial)

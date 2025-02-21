@@ -1,3 +1,10 @@
+---
+title: Misc
+parent: iOS
+---
+
+1. TOC
+{:toc}
 
 ##### iOS Versions
 

@@ -1,3 +1,10 @@
+---
+title: Coredata
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Core Data
 
 [swift-persistence/core-data](https://rabin-aapl.gitbook.io/swift-persistence/core-data/)

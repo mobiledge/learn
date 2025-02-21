@@ -1,3 +1,10 @@
+---
+title: Collectionviews
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Collection Views
 - [Collection View Programming Guide for iOS](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/CollectionViewPGforIOS/Introduction/Introduction.html) - Guide
 - [CollectionView-Simple](https://developer.apple.com/library/archive/samplecode/CollectionView-Simple/Introduction/Intro.html) - Sample Code

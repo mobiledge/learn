@@ -1,3 +1,10 @@
+---
+title: Userdefaultspersistable
+parent: iOS
+---
+
+1. TOC
+{:toc}
 import UIKit
 
 protocol UserDefaultsPersistable: Codable {

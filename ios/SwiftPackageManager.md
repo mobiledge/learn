@@ -1,3 +1,10 @@
+---
+title: Swiftpackagemanager
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Swift Package Manager
 
 #### [Swift Package Manager basics](https://theswiftdev.com/swift-package-manager-tutorial/)

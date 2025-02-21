@@ -1,3 +1,10 @@
+---
+title: Combine
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Combine
 - Documentation / [**Combine**](https://developer.apple.com/documentation/combine)
 - [**Introducing Combine - Matt Neuberg**](https://www.apeth.com/UnderstandingCombine/toc.html)

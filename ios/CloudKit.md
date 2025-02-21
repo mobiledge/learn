@@ -1,3 +1,10 @@
+---
+title: Cloudkit
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # CloudKit
 
 [Developer Documentation](https://developer.apple.com/documentation) > 

@@ -1,3 +1,10 @@
+---
+title: Localization
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Localization
 
 ## [Localization](https://developer.apple.com/documentation/xcode/localization)

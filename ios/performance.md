@@ -1,3 +1,10 @@
+---
+title: Performance
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Performance
 
 - [Practical Approaches to Great App Performance - WWDC 2018](https://developer.apple.com/videos/play/wwdc2018/407)

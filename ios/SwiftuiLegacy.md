@@ -1,3 +1,10 @@
+---
+title: Swiftuilegacy
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # SwiftUI (Legacy Page)
 
 ## [**Learning path > iOS User Interfaces with SwiftUI**](https://www.kodeco.com/ios/paths/iosuserinterface)

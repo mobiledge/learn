@@ -1,3 +1,10 @@
+---
+title: Thread
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Thread
 - Documentation / [Thread](https://developer.apple.com/documentation/foundation/thread)
 - pointfree / [Concurrency's Past: Threads](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep190-concurrency-s-past-threads)

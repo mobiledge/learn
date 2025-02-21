@@ -1,3 +1,10 @@
+---
+title: Distribute
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # iOS Distribution
 - [Apple Developer Program Roles](https://developer.apple.com/support/roles/)
   

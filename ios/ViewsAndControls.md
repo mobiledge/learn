@@ -1,3 +1,10 @@
+---
+title: Viewsandcontrols
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Views and Controls
 
 [Developer Documentation](https://developer.apple.com/documentation) >

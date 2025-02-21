@@ -1,3 +1,10 @@
+---
+title: Persistence
+parent: iOS
+---
+
+1. TOC
+{:toc}
 # Persistence
 - Persistence: 
 [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md), 

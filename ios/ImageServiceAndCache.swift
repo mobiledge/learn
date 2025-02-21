@@ -1,3 +1,10 @@
+---
+title: Imageserviceandcache
+parent: iOS
+---
+
+1. TOC
+{:toc}
 class ImageService {
     
     static var shared = ImageService()
