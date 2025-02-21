@@ -1,7 +1,3 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[iOS](https://github.com/mobilege/ios-development/blob/master/README.md) /
-[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) 
-
 # [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
 
 - [Search](http://mobiledge.github.io/search/swiftui-views.html) 🔎 

@@ -1,6 +1,3 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[ios-development](https://github.com/mobilege/ios-development/blob/master/README.md) / 
-
 # Swift Package Manager
 
 #### [Swift Package Manager basics](https://theswiftdev.com/swift-package-manager-tutorial/)

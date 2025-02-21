@@ -1,8 +1,3 @@
-Quick Links:
-[Articles](https://developer.apple.com/support/articles/), 
-[Developer Documentation](https://developer.apple.com/documentation), 
-[Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-
 # [Foundation](https://developer.apple.com/documentation/foundation)
 
 ## Topics

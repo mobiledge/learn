@@ -1,12 +1,3 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[iOS](https://github.com/mobilege/ios-development/blob/master/README.md) / 
-[async-await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)
-
-[Documentation](https://developer.apple.com/documentation) &nbsp; · &nbsp;
-[Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; · &nbsp;
-[Technologies](https://developer.apple.com/documentation/technologies) &nbsp; · &nbsp;
-[Videos](https://developer.apple.com/videos/)
-
 # Async/Await
 
 

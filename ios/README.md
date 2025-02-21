@@ -1,8 +1,3 @@
----
-title: iOS
-nav_order: 2
----
-
 # iOS
 
 - [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) 

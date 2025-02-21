@@ -1,6 +1,3 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[ios-development](https://github.com/mobilege/ios-development/blob/master/README.md) / 
-
 # Build Process
 
 `swiftc` is the Swift compiler. It takes one or more Swift source files as input and produces a binary output that can be executed directly.

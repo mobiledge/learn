@@ -1,6 +1,3 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[iOS](https://github.com/mobilege/ios-development/blob/master/README.md) / 
-
 # Thread
 - Documentation / [Thread](https://developer.apple.com/documentation/foundation/thread)
 - pointfree / [Concurrency's Past: Threads](https://www.pointfree.co/collections/concurrency/threads-queues-and-tasks/ep190-concurrency-s-past-threads)

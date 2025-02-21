@@ -1,6 +1,3 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[iOS](https://github.com/mobilege/ios-development/blob/master/README.md) /
-
 # Localization
 
 ## [Localization](https://developer.apple.com/documentation/xcode/localization)

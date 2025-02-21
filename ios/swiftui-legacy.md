@@ -1,14 +1,3 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[iOS](https://github.com/mobilege/ios-development/blob/master/README.md) /
-[SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-<sub>
-&nbsp; &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swiftui-views.html)
-&nbsp; &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
-&nbsp; &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
-</sub>
-
-[Resources ↓](#resources) · [Shortcuts ↓](#shortcuts)
-
 # SwiftUI (Legacy Page)
 
 ## [**Learning path > iOS User Interfaces with SwiftUI**](https://www.kodeco.com/ios/paths/iosuserinterface)
