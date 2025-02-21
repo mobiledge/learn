@@ -1,7 +1,6 @@
 ---
 title: iOS
 nav_order: 2
-parent: Home
 ---
 
 ## Table of contents
