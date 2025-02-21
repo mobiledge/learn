@@ -1,11 +1,12 @@
-<!---
-&nbsp; &nbsp; [stuff](stuff)
---->
+---
+title: iOS
+nav_order: 2
+---
 
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[iOS](https://github.com/mobilege/ios-development/blob/master/README.md) /
+# iOS
 
-# iOS Development
+- [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) 
+
 
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
 <sub>[Search 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
